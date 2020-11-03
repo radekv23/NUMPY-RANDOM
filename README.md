@@ -1,9 +1,9 @@
-![GMIT](gmitlogo.png)<br>
+![GMIT](img/gmitlogo.png)<br>
 # Practical Assignment for *Programming for Data Analysis* at GMIT
 by Radek Wojtczak G00352936<br>
 
 
-![Numpoy logo](numptlogo.png)
+![Numpoy logo](img/numptlogo.png)
 <br>
 ### Problem statement<br>
 The following assignment concerns the numpy.random package in Python. You are
